@@ -1,4 +1,3 @@
-
 # OfficeBot
 
 
@@ -18,17 +17,17 @@ OfficeBot, a cutting-edge office assistant revolutionizing document delivery wit
 
 Clone the repository:
 ```bash
-  git clone .......
+  git clone https://github.com/TRP64011655/OfficeBot.git
 ```
     
 Navigate to the project directory:
 ```bash
-  cd .......
+  cd OfficeBot/ui
 ```
 
 Run the Python script:
 ```bash
-  python ....
+  python main.py
 ```
 
 Follow the instructions in the application:
