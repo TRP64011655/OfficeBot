@@ -37,10 +37,10 @@ Follow the instructions in the application:
 
 ## Files
 
-- `main.py` : main file to run the file. 
-- `StartPage.py` : to be added
-- `pageOne.py` : to be added
-- `pageTwo.py` : to be added
-- `pageThree.py` : mto be added
-- `pageReject.py` : mto be added
+- `main.py` : This is the main file to run the file. 
+- `StartPage.py` : This file is the start page of the program.
+- `pageOne.py` : This file is the page that shows the shortest path that the robot is taking.
+- `pageTwo.py` : This file is the page that shows the user that the package is here. 
+- `pageThree.py` : to be added
+- `pageReject.py` : This file is the page that shows the user that the docuement has been rejected and the reason of it.
 
