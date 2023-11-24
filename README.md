@@ -40,7 +40,7 @@ Follow the instructions in the application:
 - `main.py` : This is the main file to run the file. 
 - `StartPage.py` : This file is the start page of the program.
 - `pageOne.py` : This file is the page that shows the shortest path that the robot is taking.
-- `pageTwo.py` : This file is the page that shows the user that the package is here. 
+- `pageTwo.py` : This file is the page that shows the user that the package is delivered. 
 - `pageThree.py` : to be added
 - `pageReject.py` : This file is the page that shows the user that the docuement has been rejected and the reason of it.
 
